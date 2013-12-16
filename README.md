@@ -3,7 +3,7 @@
  A JavaScript library to load local and remote tar files from tar archives and json_packed files
 
  TarFile - A JavaScript library to load multiple files from 
- tar archives and json_packed files (see http://gist.github.com/407595)
+ tar archives and json_packed files (see https://gist.github.com/kig/408333)
 
 ### Example 1: Loading multiple files from a local file
 
